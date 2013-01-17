@@ -25,4 +25,4 @@ Use
 
 Notes
 --
-written on ruby 1.9.3. YMMV.
+written on ruby 1.9.3. YMMV. 
