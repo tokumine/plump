@@ -4,7 +4,7 @@ Takes an .mbtile file with non-existent tile gaps and fills with blank tiles. Th
 
 To save space this uses 1 blank tile and links all missing tiles via the map table.
 
-Install
+Install (osx)
 --
 
 ```bash
