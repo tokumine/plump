@@ -1,10 +1,10 @@
 PLUMP. 
 ==  
-
-Takes a mbtile with non-existent tile gaps and fills with blank tiles.
+Takes an .mbtile file with non-existent tile gaps and fills with blank tiles.
 
 This keeps google maps happy by preventing 404's being served from mapbox/tilelive. 
 
+To save space, this script uses 1 actual blank tile and links all missing tiles to this.
 
 Install
 --
@@ -25,4 +25,5 @@ Use
 
 Notes
 --
-written on ruby 1.9.3. YMMV. 
+* written on ruby 1.9.3. 
+* takes a while on large .mbtiles
