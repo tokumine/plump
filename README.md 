@@ -23,3 +23,6 @@ Use
 > ruby plump.rb [MBTILES-FILE]
 ```
 
+Notes
+--
+written on ruby 1.9.3. YMMV.
