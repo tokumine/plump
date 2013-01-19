@@ -1,6 +1,6 @@
 PLUMP. 
 ==  
-Takes an .mbtile file with non-existent tile gaps and fills with blank tiles. This keeps google maps happy by preventing 404's being served from mapbox/tilelive. 
+Takes an .mbtile file with non-existent tile gaps and fills with blank tiles. 
 
 To save space this uses 1 blank tile and links all missing tiles via the map table.
 
